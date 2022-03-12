@@ -1,0 +1,19 @@
+{
+  "name": "elarian-bulksms",
+  "version": "1.0.0",
+  "description": "Elarian Bulk SMS API for Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "bulksms",
+    "elarian"
+  ],
+  "author": "Brian Nganga",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "elarian": "^0.2.23"
+  }
+}
