@@ -14,7 +14,6 @@ Dec 10, 2021
 
 3 min read
 
-By Ian Githungo
 
 Elarian provides infrastructure for building reactive, scalable applications fast. At its core, Elarian is a customer data and automation platform, even as you perform basic actions such as sending messages or handling payments; this data encompasses communications, payments, and activities generated from sources such as websites and mobile apps.
 
